@@ -2,8 +2,8 @@
 name = "wayfinder"
 version = "0.1.0"
 description = "A fast, native file manager for Linux with a docked preview pane"
-authors = ["Zito"]
-license = "MIT"
+authors = ["LegendofZito"]
+license = "LicenseRef-Proprietary"
 edition = "2021"
 
 [lib]
